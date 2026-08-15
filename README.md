@@ -4,6 +4,7 @@ Description
 This project demonstrates the concept of a parameterized constructor in C++ using a Rectangle class. The program initializes the length and breadth of a rectangle through a constructor and calculates its area.
 
 Objective
+
  1 To understand the concept of constructors in C++.
  2 To learn about parameterized constructors.
  3 To initialize data members using a constructor.
