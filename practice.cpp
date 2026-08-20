@@ -9,7 +9,7 @@ class rectangle {
         length =l;
         breadth =b;
 
-    }
+  }
 
 
 };
